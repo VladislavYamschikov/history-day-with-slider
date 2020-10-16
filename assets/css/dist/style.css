@@ -95,6 +95,56 @@ header {
   color: #000000;
 }
 
+.headlline-photo {
+  border: 2px solid red;
+  padding: 1px;
+  width: 1200px;
+  margin-left: 200px;
+}
+
+.article-photo {
+  margin-left: 100%;
+}
+
+.article-broder {
+  border: 2px solid red;
+  padding: 1px;
+  width: 1200px;
+  margin-left: 200px;
+}
+
+strong {
+  font-size: 50px;
+}
+
+.headline {
+  width: 1000px;
+  line-height: 23px;
+  margin-left: 50px;
+  margin-right: auto;
+  margin-top: 35px;
+  font-size: 20px;
+  line-height: 23px;
+  text-align: center;
+  color: #000000;
+}
+
+.article-text {
+  width: 1000px;
+  line-height: 23px;
+  margin-left: 50px;
+  margin-right: auto;
+  margin-top: 35px;
+  font-size: 20px;
+  line-height: 23px;
+  text-align: left;
+  color: #000000;
+}
+
+.article-photo {
+  margin: 50px;
+}
+
 .slide .photo {
   width: 100%;
   height: 100%;
